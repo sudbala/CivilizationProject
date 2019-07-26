@@ -1,0 +1,15 @@
+Monument.100 5c
+Library.300 10s
+Granary.200 5g 1s
+Amphitheater.500 9c
+University.2000 9s 5g
+Workshop.1000 6p
+Bank.2000 9g 1p
+Opera House.2000 9c
+Factory.5000 5p
+Public School.5000 7s
+Broadcast Tower.6500 9c 5p
+Hotel.6500 9c 9g
+Research Lab.7500 9s
+Nuclear Plant.9000 5p
+Windmill.300 5p
